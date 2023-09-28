@@ -1,6 +1,6 @@
 # Kafka
 
-```text
+```
 Kafka is an open-source stream processing platform developed by the Apache Software Foundation. It was originally created by LinkedIn and later open-sourced as an Apache project. Kafka is designed for handling real-time data feeds and is widely used for building scalable, high-throughput, and fault-tolerant data pipelines and event-driven architectures.
 
 ```
